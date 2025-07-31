@@ -1,0 +1,15 @@
+Contract Locked Public Wallet: https://polygonscan.com/tx/0x03aa9ee7c42cfbfe8c901c78c961bfbbe9d5f3c7ac3b613fa529baabeafbeb89
+
+https://polygonscan.com/tx/0xd7c860d8fed25a086502f1f0af05aa04b66e9d6589b7b209fa60bf444c3ad942
+
+https://polygonscan.com/tx/0x422dde13b156d9ab28720a1c75a960a57a9ca48cd94df60f0175de84f0f8b45d
+
+https://polygonscan.com/tx/0x13a0330626c5081c4c6e22d7ebaa97df39b0addc430f59fec82c6a3467464c9c
+
+https://polygonscan.com/tx/0x422dde13b156d9ab28720a1c75a960a57a9ca48cd94df60f0175de84f0f8b45d
+
+Contract Locked Presale Wallet: https://polygonscan.com/tx/0x342599af92baf98f68901ee6fbfb8993b7f6f84f48997ecfda1653db52e7db41
+
+Contract Locked DEV/MARKETING Wallet: https://polygonscan.com/tx/0xedd01589d4fe5533f7a60a416584bb316aa2592ac8213224714b4456e9609c0f
+
+Contract Locked Institucional Investors Wallet: https://polygonscan.com/tx/0x64aa256dd4ccd1202e57fb0398fc8822b5cae71062a54c1640fa87a8cbb3199c
